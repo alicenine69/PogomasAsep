@@ -12,7 +12,7 @@
       }
     </style>
     <!--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>-->
-	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC1KFg4IrNcS2u9FJ0L1ko7PU0Be0xpYhU&sensor=false"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBe6loPsZR20n74G8_rtq1UXZYkz0K-8QU&sensor=false"></script>
 	
     <script>
 function initialize() {
